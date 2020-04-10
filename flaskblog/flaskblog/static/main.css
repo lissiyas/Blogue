@@ -1,5 +1,5 @@
 body {
-  background: #a4f05c;
+  background: #e6ffe6;
   color: #333333;
   margin-top: 5rem;
 }
@@ -10,7 +10,9 @@ h1, h2, h3, h4, h5, h6 {
 
 
 
-
+.navbar{
+  background-color: darkorange;
+}
 
 .bg-primary {
   background-color: #CDDC39;

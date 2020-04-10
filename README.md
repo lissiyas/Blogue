@@ -8,3 +8,5 @@ FORMSS AND USER INPUTS
 --user authentication--
 -- user account --
 
+--blog creation-delete and update blog--
+

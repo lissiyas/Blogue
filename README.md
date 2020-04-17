@@ -10,3 +10,5 @@ FORMSS AND USER INPUTS
 
 --blog creation-delete and update blog--
 
+--password recovery --
+

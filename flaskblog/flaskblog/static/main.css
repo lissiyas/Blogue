@@ -1,7 +1,10 @@
 body {
-  background: #e6ffe7;
   color: #333333;
   margin-top: 5rem;
+  background:  url("../static/images/1.jpeg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -11,7 +14,8 @@ h1, h2, h3, h4, h5, h6 {
 
 
 .navbar{
-  background-color: rgb(255, 115, 0);
+  background-color:#ffffff;
+  opacity: .7;
 }
 
 .bg-primary {
@@ -33,9 +37,10 @@ h1, h2, h3, h4, h5, h6 {
 .content-section {
   background: #ffffff;
   padding: 10px 20px;
-  border: 1px solid #dddddd;
+  border: 1px solid #313131;
   border-radius: 3px;
   margin-bottom: 20px;
+  border-radius: 15px 50px;
 }
 
 .article-title {
@@ -83,4 +88,56 @@ a.article-title:hover {
 
 .account-heading {
   font-size: 2.5rem;
+}
+
+.kap{
+  
+  color: black;
+  font-size: 14px;
+  text-transform: uppercase;
+  text-align: center;
+  transition: all 0.5s ease-in;
+  font-weight: bold;
+  border-radius: 50%;
+}
+
+.kap :hover{
+  background-color: rgb(255, 123, 0);
+
+
+}
+
+.cap{
+  
+  color: black;
+  font-size: 14px;
+  text-transform: uppercase;
+  text-align: center;
+  transition: all 0.5s ease-in;
+  font-weight: bold;
+  border-radius: 50%;
+}
+
+.cap :hover{
+  background-color: rgb(255, 123, 0);
+  
+
+}
+
+.blow{
+  border-radius: 15px;
+}
+
+.lid{
+  font-size: 40px;
+  font-weight: bold;
+  color: #ffffff;
+  text-transform: uppercase;
+}
+
+.lis{
+  font-size: 40px;
+  font-weight: bold;
+  color: #ffffff;
+  text-transform: uppercase;
 }
